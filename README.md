@@ -1,6 +1,6 @@
 # Random-Password-Generator
 
-# <img alt="Logo" src="random-password-generator.png" height="60">
+# <img alt="Logo" src="random-password-generator.png" height="120">
 
 - Description
 -------------
